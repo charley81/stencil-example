@@ -131,6 +131,7 @@ export class StockPrice {
             Fetch
           </button>
         </form>
+        <ion-icon name="pricetag"></ion-icon>
         <div>{dataContent}</div>
       </Host>
     );
